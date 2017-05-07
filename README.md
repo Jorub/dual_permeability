@@ -1,4 +1,5 @@
 # dual_permeability
+
 This repository contains DRUtES with the dual permeability model.
 DRUTES is free and distributed under GNU public license https://www.gnu.org/licenses/gpl-3.0.html.
 The stable version can be found in a different repository: https://github.com/michalkuraz/drutes-dev. 
@@ -12,3 +13,5 @@ Please note: This program is free software: you can redistribute it and/or modif
  GNU General Public License for more details.
  You should have received a copy of the GNU General Public License
  along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+Future projects: cg fixes, R interface for output files
